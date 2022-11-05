@@ -73,7 +73,7 @@ out.textContent = b ;
                 break; 
                 case "/":
                     if(b==='0'){
-                        out.textContent= 'ебанулся? '
+                        out.textContent= 'ошибка '
                         a='';
                         b='';
                         sign='';
